@@ -2,7 +2,7 @@
 
 Analyze SharePoint project evidence and produce an evidence-based project health assessment across schedule, risks, actions, decisions, dependencies, and governance. The skill can also generate a self-contained HTML management report that can be saved and opened directly as a webpage.
 
-![preview](./assets/html-report.png)
+![preview](./assets/preview.png)
 ![preview](./assets/copilot-chat.png)
 
 ## What you get
